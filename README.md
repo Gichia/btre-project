@@ -12,7 +12,7 @@ A website that contains propery listings for a fictional company named BT Real E
 
 ```bash
 # Clone this repo
-$ git clone https://github.com/Gichia/btre-project
+$ git clone https://github.com/Gichia/btre-project.git
 
 # Navigate to the folder
 $ cd btre-project
